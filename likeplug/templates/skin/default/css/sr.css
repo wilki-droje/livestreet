@@ -1,0 +1,12 @@
+#blockSr .oneTopic {margin-bottom: 15px;}
+#blockSr .oneTopic .rightSide {clear: both;}
+
+#blockSr .oneTopic .rightSide .topicTitle {color: rgb(0, 114, 188); font-size: 12px;}
+
+#blockSr .oneTopic .rightSide .ratingLineWrapper {background: rgb(241, 241, 241);}
+#blockSr .oneTopic .rightSide .ratingLine {height: 17px; background: rgb(186, 189, 190); min-width: 15%; max-width: 100%; position: relative;}
+#blockSr .oneTopic .rightSide .ratingLineNum {position: absolute; right: 0; display: block; background: rgb(0, 114, 188); min-width: 20px; max-width: 35px; height: 100%; padding: 0 2px 0 2px; text-align: center; color: #fff;}
+#blockSr .oneTopic .rightSide .ratingLineNum:after {border-right: 8px solid rgba(0, 0, 0, 0); border-top: 7px solid rgb(0, 114, 188); position: absolute; content: ''; top: 100%; left: 25%; width: 0;}
+
+#blockSr .ratCopy {font-size: 0.9em;color: rgb(83, 83, 83);}
+#blockSr .ratCopy:hover {opacity: 0.9;}
